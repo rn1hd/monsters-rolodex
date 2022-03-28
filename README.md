@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is served as my training to get familiar in React ecosystem from an online course conducted by one of the best instructors [Yihua Zhang](https://github.com/ZhangMYihua) and his team. Here is the link to the original repository: [https://github.com/ZhangMYihua/monsters-rolodex-complete](https://github.com/ZhangMYihua/monsters-rolodex-complete)
 
-The live version of the app can be accessed through [https://spotlight64.github.io/monsters-rolodex/](https://spotlight64.github.io/monsters-rolodex/).
+The live version of the app can be accessed through [https://rn1hd.github.io/monsters-rolodex/](https://rn1hd.github.io/monsters-rolodex/).
 
 ## Available Scripts
 
